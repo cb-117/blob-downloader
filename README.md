@@ -1,4 +1,4 @@
-# Montecito Blob Downloader
+# Azure Blob Downloader
 
 Small Python CLI for listing and downloading Azure Blob reports using a SAS URL.
 
